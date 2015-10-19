@@ -134,6 +134,10 @@ header nav ul li a {
     margin-bottom: 40px;
 }
 
+h1:hover {
+    color: #f9e42e;
+}
+
 h2 {
     font-weight: 600;
     font-size: 40px;

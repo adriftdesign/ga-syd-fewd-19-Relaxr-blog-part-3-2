@@ -8,9 +8,9 @@
 
 The team from Relaxr is back...again! They want their page to be more interactive and asked you to add JavaScript to their source code. You've been given the HTML and CSS but will need to create a JavaScript file and add a few different pieces of interactivity:  Users should be able to click a link and have the remainder of the blog's content slide down and appear on the page, both on the main content column and the side bar; users should also be able hide the content when they are finished reading. See a detailed technical explanation below.
 
-Student: ________________________________________
+Student: Damien Burnham
 
-Project URL: ____________________________________
+Project URL: https://github.com/adriftdesign/ga-syd-fewd-19-Relaxr-blog-part-3-2
 
 |                                                                                                                                                                                                                     |                                |                        |                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------|--------------------------|
